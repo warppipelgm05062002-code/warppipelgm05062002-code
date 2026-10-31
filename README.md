@@ -23,4 +23,6 @@ pipelines, and scripts that fix themselves out of a job.
 **Working style** - fixed scope and price agreed before the work starts, sample output
 on your own data when possible, README included so the tool keeps working after handover.
 
+Services, fixed prices and how I work: https://warppipelgm05062002-code.github.io/
+
 Freelancer: [@lejames8](https://www.freelancer.com/u/lejames8) - available for hire.
